@@ -22,4 +22,4 @@ this whole binary no. states "  _...  "  which is 'B' in morse code for 8051 GPI
 one(); | two(); | three(); | four(); functions represent Out of which of the 4 seven segment display we chose to display the character
 
 ##Note:
-  ***We need to manually change the GPIO pins in the software after step by step execution i.e. while code is run we need to change the pins in the options***
+  ***We need to manually change the GPIO pins in the software after step by step execution i.e. while line 53 is run we need to change the pin P3 in the options***
